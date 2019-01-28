@@ -20,3 +20,4 @@ while(flip != 1):
         print("All women are QUEENS wins!")
 
 print("Here's something inspirational for you: " + inspirational)
+print("NOW while you're at it, subscribe to Ritznation (aka the best YouTube channel ever aka my YouTube channel)")
